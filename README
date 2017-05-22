@@ -1,0 +1,13 @@
+How to install:
+
+(Terminal)
+Enter the directory where the folder for the theme is located. Once you 
+are there type mv theme-name /home/user-name-here/.themes
+
+(GUI)
+Open your prefered file manager click on "Home" and press CTRL+H to 
+unhide all of the hidden folders and files.
+Once they are unhidden move the folder for the theme that you 
+would like to use into the .themes directory and it should work :)
+
+Thank you for downloading!
